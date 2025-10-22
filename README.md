@@ -3,12 +3,12 @@
 
 
 ## 🚀 About Me
-I'm a full stack Data Scientist
+I'm a full stack Data Scientist/ AI Engineer
 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngilla-simon-diange-315736356
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/simon-diange-315736356/
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
 
@@ -20,5 +20,5 @@ I'm a full stack Data Scientist
 5. Power BI
 6. Excel
 7. Customer's churn predictor
-
+8. AI Engineer
 
